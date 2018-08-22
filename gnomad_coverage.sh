@@ -1,4 +1,5 @@
 
+# download gnomAD genome coverage files and extract bases in NGS dead zone bed
 # requirements:
 #   - gsutil from google cloud SDK
 #   - tabix
